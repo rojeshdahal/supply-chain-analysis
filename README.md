@@ -3,6 +3,7 @@ Project Overview:
 This Power BI dashboard provides an in-depth analysis of global supply chain performance, highlighting key metrics such as total sales, order volume, shipping efficiency, and profitability by category. The dashboard is designed to identify inefficiencies, optimize logistics, and enhance decision-making for supply chain management.
 
 Key Features & Insights:
+
 ✅ KPIs & Performance Metrics: Displays total sales ($36.78M), total orders (180.52K), average shipping days (3.50), late delivery percentage (54.83%), and order profit per order (3.97M).
 
 ✅ Top 10 Selling Products: A bar chart showcasing the best-selling products to track revenue contributions.
@@ -20,6 +21,7 @@ Key Features & Insights:
 ✅ Interactive Filters & Slicers: Users can filter by country, payment type, department, and shipping mode for a customized analysis.
 
 Tools & Technologies Used:
+
 📌 Power BI (for data visualization & reporting)
 
 📌 Power Query (for data cleaning & transformation)
