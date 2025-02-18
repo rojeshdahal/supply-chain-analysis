@@ -4,18 +4,28 @@ This Power BI dashboard provides an in-depth analysis of global supply chain per
 
 Key Features & Insights:
 ✅ KPIs & Performance Metrics: Displays total sales ($36.78M), total orders (180.52K), average shipping days (3.50), late delivery percentage (54.83%), and order profit per order (3.97M).
+
 ✅ Top 10 Selling Products: A bar chart showcasing the best-selling products to track revenue contributions.
+
 ✅ Inventory Turnover Rate: A gauge chart visualizing the frequency of inventory replenishment.
+
 ✅ Profitability by Category: A horizontal bar chart ranking product categories based on profitability.
+
 ✅ Sales by Customer: A table listing top customers and their total purchases.
+
 ✅ Sales Trend Analysis: A line chart displaying sales performance across months for trend identification.
+
 ✅ Customer Segmentation: A pie chart breaking down customers into Consumer, Corporate, and Home Office segments.
+
 ✅ Interactive Filters & Slicers: Users can filter by country, payment type, department, and shipping mode for a customized analysis.
 
 Tools & Technologies Used:
 📌 Power BI (for data visualization & reporting)
+
 📌 Power Query (for data cleaning & transformation)
+
 📌 DAX (Data Analysis Expressions) (for calculated measures & KPIs)
+
 📌 Data Modeling (to establish relationships between datasets)
 
 Outcome & Impact:
